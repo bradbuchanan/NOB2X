@@ -145,6 +145,7 @@
 - Wayniloans - Payment processor 
 - [WEX.nz](https://wex.nz/news/3) - Bitcoin exchange (formerly BTC-e)
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
+- [XBT.net](https://www.xbt.net) - Bitcoin Informational Website
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
 
